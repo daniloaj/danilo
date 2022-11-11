@@ -1,0 +1,161 @@
+body{
+    text-align: center;
+}
+.danilo{
+    position: relative;
+}
+.juarez{
+    margin-top: -175px;
+    position: relative;
+    opacity: 0%;
+    transition: opacity 2s;
+}
+.juarez:hover{
+    opacity: 100%;
+}
+.imagen{
+    width: 170px;
+    max-width: 100%;
+    animation-duration: 6s;
+    border-radius: 100%;
+    animation-name: slidein;
+
+}
+@keyframes slidein {
+    0%{opacity: 100%;}
+    10%{opacity: 0%;}
+    20%{opacity: 0%;}
+    30%{opacity: 0%;}
+    40%{opacity: 0%;}
+    50%{opacity: 0%;}
+    60%{opacity: 0%;}
+    100%{ opacity: 100%}
+
+}
+.imagen2{
+    border-radius: 100%;
+    width: 100%;
+    max-width: 170px;
+    animation-duration: 6s;
+    animation-name: asd;
+
+}
+@keyframes asd {
+    0%{opacity: 0%;}
+    10%{opacity: 100%;}
+    20%{opacity: 0%;}
+    30%{opacity: 0%;}
+    40%{opacity: 0%;}
+    50%{opacity: 0%;}
+    60%{opacity: 0%;}
+    100%{opacity: 100%} 
+}
+.imagen3{
+    border-radius: 100%;
+    width: 100%;
+    max-width: 170px;
+    animation-duration: 6s;
+    animation-name: img3;
+
+}
+@keyframes img3 {
+    0%{opacity: 0%;}
+    10%{opacity: 0%;}
+    20%{opacity: 100%;}
+    30%{opacity: 0%;}
+    40%{opacity: 0%;}
+    50%{opacity: 0%;}
+    60%{opacity: 0%;}
+    100%{opacity: 100%}
+  
+}
+.imagen4{
+    border-radius: 100%;
+    width: 100%;
+    max-width: 170px;
+    animation-duration: 6s;
+    animation-name: img4;
+
+}
+@keyframes img4 {
+    0%{opacity: 0%;}
+    10%{opacity: 0%;}
+    20%{opacity: 0%;}
+    30%{opacity: 100%;}
+    40%{opacity: 0%;}
+    50%{opacity: 0%;}
+    60%{opacity: 0%;}
+    100%{opacity: 100%}
+}
+
+.imagen5{
+    border-radius: 100%;
+    width: 100%;
+    max-width: 170px;
+    animation-duration: 6s;
+    animation-name: img5;
+
+}
+@keyframes img5 {
+    0%{opacity: 0%;}
+    10%{opacity: 0%;}
+    20%{opacity: 0%;}
+    30%{opacity: 0%;}
+    40%{opacity: 100%;}
+    50%{opacity: 0%;}
+    60%{opacity: 0%;}
+    100%{opacity: 100%}
+
+}
+.imagen6{
+    border-radius: 100%;
+    width: 100%;
+    max-width: 170px;
+    animation-duration: 6s;
+    animation-name: img6;
+
+}
+@keyframes img6 {
+    0%{opacity: 0%;}
+    10%{opacity: 0%;}
+    20%{opacity: 0%;}
+    30%{opacity: 0%;}
+    40%{opacity: 0%;}
+    50%{opacity: 100%;}
+    60%{opacity: 0%;}
+    100%{opacity: 100%}
+}
+.imagen7{
+    width: 170px;
+    max-width: 100%;
+    border-radius: 100%;
+}
+
+.imagen8{
+    width: 170px;
+    max-width: 100%;
+    border-radius: 100%;
+}
+.imagen9{
+    width: 170px;
+    max-width: 100%;
+    border-radius: 100%;
+}
+
+.imagen10{
+    width: 170px;
+    max-width: 100%;
+    border-radius: 100%;
+}
+
+.imagen11{
+    width: 170px;
+    max-width: 100%;
+    border-radius: 100%;
+}
+
+.imagen12{
+    width: 170px;
+    max-width: 100%;
+    border-radius: 100%;
+}
